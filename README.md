@@ -23,7 +23,7 @@ As a computer science student, I aim to improve my Python programming skills and
 - **Reset Inputs**: Clear all inputs to start fresh.
 - **Error Handling**: Handles exceptions for file operations to ensure a smooth user experience.
 
-## Technologies Used
+## Libraries Used
 
 - **Tkinter**: For building the GUI of the application.
 - **Pandas**: For data manipulation and handling Excel files.
