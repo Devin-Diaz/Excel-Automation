@@ -48,8 +48,19 @@ def generate_bar_graph(data_set):
     """
     df = pd.DataFrame(data_set)
     category_column, numeric_column = df.columns
+    
+    # Convert numeric column to numeric type
+    df[numeric_column] = pd.to_numeric(df[numeric_column])
+    
+    # Create the bar plot
     sns.barplot(data=df, x=category_column, y=numeric_column)
+    
+    # Set the y-axis limits to start at 0
+    plt.ylim(0, df[numeric_column].max() * 1.1)
+    
     plt.title('Bar Graph')
+    plt.xlabel(category_column)
+    plt.ylabel(numeric_column)
     plt.show()
 
 def generate_histogram(data_set):
