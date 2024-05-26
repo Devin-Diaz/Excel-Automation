@@ -9,7 +9,6 @@ Excel Visualization is a graphical user interface (GUI) application that allows 
 - [Libraries Used](#libraries-used)
 - [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Motivation
 
