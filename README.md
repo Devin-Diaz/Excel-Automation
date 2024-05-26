@@ -10,7 +10,7 @@ Excel Visualization is a graphical user interface (GUI) application that allows 
 - [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [License](#license)
-- 
+
 ## Motivation
 
 As a computer science student, I aim to improve my Python programming skills and gain experience with data visualization libraries. The idea behind Excel Visualization was to create a practical tool that allows users to visualize their data easily while providing me with hands-on experience in using Pandas, Seaborn, and Matplotlib for data manipulation and visualization. This project also helped me become proficient in handling Excel files with Python.
