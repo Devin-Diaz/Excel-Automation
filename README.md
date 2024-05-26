@@ -1,6 +1,6 @@
-# Excel Visualization App
+# Excel Visualization 
 
-Excel Visualization App is a graphical user interface (GUI) application that allows users to input data, generate various types of visualizations (scatter plots, bar graphs, histograms, and pie charts), and save or load the data to and from Excel files. This project was developed to enhance my skills in data visualization and Python programming, utilizing a variety of modern libraries and frameworks.
+Excel Visualization is a graphical user interface (GUI) application that allows users to input data, generate various types of visualizations (scatter plots, bar graphs, histograms, and pie charts), and save or load the data to and from Excel files. This project was developed to enhance my skills in data visualization and Python programming, utilizing a variety of modern libraries and frameworks.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Excel Visualization App is a graphical user interface (GUI) application that all
 - 
 ## Motivation
 
-As a computer science student, I aim to improve my Python programming skills and gain experience with data visualization libraries. The idea behind Excel Visualization App was to create a practical tool that allows users to visualize their data easily while providing me with hands-on experience in using Pandas, Seaborn, and Matplotlib for data manipulation and visualization. This project also helped me become proficient in handling Excel files with Python.
+As a computer science student, I aim to improve my Python programming skills and gain experience with data visualization libraries. The idea behind Excel Visualization was to create a practical tool that allows users to visualize their data easily while providing me with hands-on experience in using Pandas, Seaborn, and Matplotlib for data manipulation and visualization. This project also helped me become proficient in handling Excel files with Python.
 
 ## Features
 
