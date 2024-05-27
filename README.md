@@ -32,10 +32,12 @@ As a computer science student, I aim to improve my Python programming skills and
 
 ## Screenshots
 
-![Scatter Plot](screenshots/scatter_plot.png)
-![Bar Graph](screenshots/bar_graph.png)
-![Histogram](screenshots/histogram.png)
-![Pie Chart](screenshots/pie_chart.png)
+![Overview](assets/overview.png)
+![Output1](assets/output1.png)
+![Output2](assets/output2.png)
+![Output3](assets/output3.png)
+![Output4](assets/output4.png)
+
 
 ## Project Structure
 
