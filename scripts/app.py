@@ -20,7 +20,7 @@ from data_visualization import generate_scatter_plot, generate_bar_graph, genera
 class ExcelVisualizationApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Excel Visualization App")
+        self.root.title("Excel Visualization")
         
         # Define primary and secondary colors
         self.primary_color = "#87CEEB"  # Light blue
@@ -50,7 +50,7 @@ class ExcelVisualizationApp:
         header_frame = ttk.Frame(self.root, style='TFrame')
         header_frame.place(relx=0.5, rely=0.1, anchor=tk.CENTER)
 
-        ttk.Label(header_frame, text="Excel Visualization App", style='TLabel', font=('Arial', 16, 'bold')).pack()
+        ttk.Label(header_frame, text="Excel Visualization", style='TLabel', font=('Arial', 16, 'bold')).pack()
 
         main_frame = ttk.Frame(self.root, style='TFrame')
         main_frame.place(relx=0.5, rely=0.5, anchor=tk.CENTER)
@@ -182,4 +182,4 @@ class ExcelVisualizationApp:
         elif graph_type == "Pie Chart":
             generate_pie_chart(data_set)
 
-\
+
